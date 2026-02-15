@@ -13,10 +13,6 @@ A simple Python program that takes user input and generates a band name.
 - basic Python syntax
 
 ## How to Run
-```bash
-python band-name-generator.py
-
-## How to Run
 
 1. Clone this repository:
 ```bash
